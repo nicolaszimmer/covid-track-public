@@ -1,8 +1,8 @@
 [{
-	"latitude": 52.472743,
-	"longitude": 13.3180452,
-	"label": "Zuhause",
-	"start": 1585130155000,
+	"latitude": 52.4887666,
+	"longitude": 13.34258592,
+	"label": "Technologiestiftung",
+	"start": 1586856133500,
 	"duration": 3600,
 	"description":"Foo bar baz.",
 	"id":"i_0001"
