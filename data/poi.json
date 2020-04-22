@@ -14,4 +14,14 @@
 	"duration": 3600,
 	"description":"Foo Bar Baz.",
 	"id":"i_0002"
-}]
+},
+{
+	"latitude": 52.488689318481875,
+	"longitude": 13.342545322999023,
+	"label": "Test Cluster 3",
+	"start": 1586871749000,
+	"duration": 3600,
+	"description":"Test Cluster aus 48823271-98f4-4490-a3c0-06ae03b15920.locations",
+	"id":"i_0003"
+}
+]
