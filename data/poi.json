@@ -3,15 +3,15 @@
 	"longitude": 13.34258592,
 	"label": "Technologiestiftung",
 	"start": 1586856133500,
-	"duration": 3600,
+	"duration": 3600000,
 	"description":"Foo bar baz.",
 	"id":"i_0001"
 }, {
 	"latitude": 52.4886292,
 	"longitude": 13.340606,
 	"label": "Technolgiestiftung Berlin",
-	"start": 1585130155000,
-	"duration": 3600,
+	"start": 158513015500,
+	"duration": 3600000,
 	"description":"Foo Bar Baz.",
 	"id":"i_0002"
 },
@@ -19,8 +19,8 @@
 	"latitude": 52.488689318481875,
 	"longitude": 13.342545322999023,
 	"label": "Test Cluster 3",
-	"start": 1586871749000,
-	"duration": 3600,
+	"start": 158687174900,
+	"duration": 3600000,
 	"description":"Test Cluster aus 48823271-98f4-4490-a3c0-06ae03b15920.locations",
 	"id":"i_0003"
 }
